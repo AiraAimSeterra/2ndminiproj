@@ -51,3 +51,4 @@ write.table(UCI_HAR_tidy_data, file = "specdata/UCI HAR Dataset/UCI HAR Dataset/
 
 
 
+
